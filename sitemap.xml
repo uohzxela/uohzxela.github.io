@@ -2,185 +2,185 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/uohzxela.github.io/resume/</loc>
+    <loc>/resume/</loc>
     <lastmod>2017-01-21T19:36:40+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2017-01-21T08:54:26+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/blog/angular-app-google-compute/</loc>
+    <loc>/blog/angular-app-google-compute/</loc>
     <lastmod>2014-08-16T10:26:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/blog/angular-rails-auth/</loc>
+    <loc>/blog/angular-rails-auth/</loc>
     <lastmod>2014-08-01T02:54:29+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/blog/life-is-a-marathon/</loc>
+    <loc>/blog/life-is-a-marathon/</loc>
     <lastmod>2014-07-21T08:55:36+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/blog/angular-rails-image-upload/</loc>
+    <loc>/blog/angular-rails-image-upload/</loc>
     <lastmod>2014-07-13T09:03:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/blog/uva-10920-spiral-tap/</loc>
+    <loc>/blog/uva-10920-spiral-tap/</loc>
     <lastmod>2014-07-04T10:17:55+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/blog/angular-draggable-bar/</loc>
+    <loc>/blog/angular-draggable-bar/</loc>
     <lastmod>2014-06-24T09:53:50+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/blog/codechef-sumtrian/</loc>
+    <loc>/blog/codechef-sumtrian/</loc>
     <lastmod>2014-06-21T10:07:42+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/blog/callback-hell-and-promises/</loc>
+    <loc>/blog/callback-hell-and-promises/</loc>
     <lastmod>2014-06-14T09:59:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/blog/active-record-associations/</loc>
+    <loc>/blog/active-record-associations/</loc>
     <lastmod>2014-05-27T10:35:51+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/blog/restful-journey/</loc>
+    <loc>/blog/restful-journey/</loc>
     <lastmod>2014-05-23T11:16:31+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/blog/functional-ruby/</loc>
+    <loc>/blog/functional-ruby/</loc>
     <lastmod>2014-05-09T11:44:16+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/categories/active-record/</loc>
+    <loc>/categories/active-record/</loc>
     <lastmod>2014-05-27T10:35:51+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2017-01-21T19:36:40+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/categories/algorithms/</loc>
+    <loc>/categories/algorithms/</loc>
     <lastmod>2014-07-04T10:17:55+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/categories/angularjs/</loc>
+    <loc>/categories/angularjs/</loc>
     <lastmod>2014-08-16T10:26:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/categories/authentication/</loc>
+    <loc>/categories/authentication/</loc>
     <lastmod>2014-08-01T02:54:29+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2014-08-16T10:26:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/categories/callbacks/</loc>
+    <loc>/categories/callbacks/</loc>
     <lastmod>2014-06-14T09:59:28+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/categories/database-schema/</loc>
+    <loc>/categories/database-schema/</loc>
     <lastmod>2014-05-27T10:35:51+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/categories/devops/</loc>
+    <loc>/categories/devops/</loc>
     <lastmod>2014-08-16T10:26:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/categories/dynamic-programming/</loc>
+    <loc>/categories/dynamic-programming/</loc>
     <lastmod>2014-06-21T10:07:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/categories/functional-programming/</loc>
+    <loc>/categories/functional-programming/</loc>
     <lastmod>2014-05-09T11:44:16+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/categories/google-compute-engine/</loc>
+    <loc>/categories/google-compute-engine/</loc>
     <lastmod>2014-08-16T10:26:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/categories/image-upload/</loc>
+    <loc>/categories/image-upload/</loc>
     <lastmod>2014-07-13T09:03:58+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/categories/jquery/</loc>
+    <loc>/categories/jquery/</loc>
     <lastmod>2014-06-24T09:53:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/categories/promises/</loc>
+    <loc>/categories/promises/</loc>
     <lastmod>2014-06-14T09:59:28+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/categories/rails/</loc>
+    <loc>/categories/rails/</loc>
     <lastmod>2014-08-01T02:54:29+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/categories/rest/</loc>
+    <loc>/categories/rest/</loc>
     <lastmod>2014-05-23T11:16:31+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/categories/ruby/</loc>
+    <loc>/categories/ruby/</loc>
     <lastmod>2014-05-09T11:44:16+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/uohzxela.github.io/categories/software-engineering/</loc>
+    <loc>/categories/software-engineering/</loc>
     <lastmod>2014-07-21T08:55:36+08:00</lastmod>
     <priority>0</priority>
   </url>
