@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alex Jiao</title>
-    <link>https://www.uohzxela.github.io/index.xml</link>
+    <link>/uohzxela.github.io/index.xml</link>
     <description>Recent content on Alex Jiao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 21 Jan 2017 19:36:40 +0800</lastBuildDate>
-    <atom:link href="https://www.uohzxela.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/uohzxela.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>https://www.uohzxela.github.io/resume/</link>
+      <link>/uohzxela.github.io/resume/</link>
       <pubDate>Sat, 21 Jan 2017 19:36:40 +0800</pubDate>
       
-      <guid>https://www.uohzxela.github.io/resume/</guid>
+      <guid>/uohzxela.github.io/resume/</guid>
       <description>&lt;p&gt;&lt;bo&lt;body&gt;
 &lt;div id=&#39;container&#39;&gt;
 &lt;div&gt;
@@ -124,10 +124,10 @@
     
     <item>
       <title>Hi, nice to meet you.</title>
-      <link>https://www.uohzxela.github.io/about/</link>
+      <link>/uohzxela.github.io/about/</link>
       <pubDate>Sat, 21 Jan 2017 08:54:26 +0800</pubDate>
       
-      <guid>https://www.uohzxela.github.io/about/</guid>
+      <guid>/uohzxela.github.io/about/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Alex, a CS student at National University of Singapore. I have experience working across the full web development stack. Being a generalist, I do not tie myself to a single platform or programming language. My academic interest lies in programming language implementations. Lately, I&amp;rsquo;m trying to deep dive into this area, and it has been fascinating so far.&lt;/p&gt;
 
 &lt;p&gt;I was born in Dalian, which is a coastal city in Liaoning, China, and have spent a good chunk of my life in Beijing before immigrating to Singapore. Now, I consider myself more or less a Singaporean, save for a bit of Beijing accent. I relish eating our local fare, and I think &lt;i&gt;bak chor mee&lt;/i&gt; is the best thing ever since sliced bread.&lt;/p&gt;
@@ -142,10 +142,10 @@
     
     <item>
       <title>Hosting an AngularJS app on an Google Compute Engine VM instance</title>
-      <link>https://www.uohzxela.github.io/blog/angular-app-google-compute/</link>
+      <link>/uohzxela.github.io/blog/angular-app-google-compute/</link>
       <pubDate>Sat, 16 Aug 2014 10:26:47 +0800</pubDate>
       
-      <guid>https://www.uohzxela.github.io/blog/angular-app-google-compute/</guid>
+      <guid>/uohzxela.github.io/blog/angular-app-google-compute/</guid>
       <description>&lt;p&gt;Recently I was tasked with deploying an Angular app on Google Compute Engine(GCE). I spent a lot of time trawling the web for tutorials but they are scattered around as usual. With help from my co-worker, I managed to get it done. To prevent others from floundering about in this niche area, here’s my walkthrough.&lt;/p&gt;
 
 &lt;p&gt;First you have to create a project &lt;a href=&#34;https://console.developers.google.com/project&#34;&gt;here&lt;/a&gt;. After that you’d have to create a VM instance. This step requires billing information as Google will charge you from the get-go.&lt;/p&gt;
@@ -201,10 +201,10 @@ app.listen(port, &lt;span style=&#34;color: #0000aa&#34;&gt;function&lt;/span&gt
     
     <item>
       <title>Rolling your own simple token-based authentication in AngularJS with Rails</title>
-      <link>https://www.uohzxela.github.io/blog/angular-rails-auth/</link>
+      <link>/uohzxela.github.io/blog/angular-rails-auth/</link>
       <pubDate>Fri, 01 Aug 2014 02:54:29 +0800</pubDate>
       
-      <guid>https://www.uohzxela.github.io/blog/angular-rails-auth/</guid>
+      <guid>/uohzxela.github.io/blog/angular-rails-auth/</guid>
       <description>
 
 &lt;p&gt;Recently I was interested in implementing token-based authentication with a decoupled frontend and backend. I googled about ways to do it the Angular-Rails way. Turns out it is not that simple and straightfoward. After a couple of days of reading fragmented sources of information on the web, I finally rolled my own authentication system.&lt;/p&gt;
@@ -767,10 +767,10 @@ app.config(&lt;span style=&#34;color: #0000aa&#34;&gt;function&lt;/span&gt; ($ht
     
     <item>
       <title>Life&#39;s a marathon</title>
-      <link>https://www.uohzxela.github.io/blog/life-is-a-marathon/</link>
+      <link>/uohzxela.github.io/blog/life-is-a-marathon/</link>
       <pubDate>Mon, 21 Jul 2014 08:55:36 +0800</pubDate>
       
-      <guid>https://www.uohzxela.github.io/blog/life-is-a-marathon/</guid>
+      <guid>/uohzxela.github.io/blog/life-is-a-marathon/</guid>
       <description>
 
 &lt;p&gt;Two months ago, I was a complete tech newbie. I tried to create a chat app with NodeJS, I succeeded in making it but I didn’t succeed in understanding it. Save for some half-baked web apps, I was barely literate in web programming.&lt;/p&gt;
@@ -829,10 +829,10 @@ app.config(&lt;span style=&#34;color: #0000aa&#34;&gt;function&lt;/span&gt; ($ht
     
     <item>
       <title>Image upload tutorial in AngularJS with Rails</title>
-      <link>https://www.uohzxela.github.io/blog/angular-rails-image-upload/</link>
+      <link>/uohzxela.github.io/blog/angular-rails-image-upload/</link>
       <pubDate>Sun, 13 Jul 2014 09:03:58 +0800</pubDate>
       
-      <guid>https://www.uohzxela.github.io/blog/angular-rails-image-upload/</guid>
+      <guid>/uohzxela.github.io/blog/angular-rails-image-upload/</guid>
       <description>
 
 &lt;p&gt;The hardest part of Marathon app is almost done. I managed to connect the view with the model (finally!) and the project assignment CRUD interface is almost finished. I am thankful to be given an opportunity to work on the front-end of a non-trivial app, it really exposes me to the intricacies of AngularJS framework and the complexity of CSS. Even though what really interests me is back-end development where scalability is of paramount importance and where interesting algorithmic problems can be solved, front-end development still continues to delight the creator within me. We humans are all creators at heart. By playing around with front-end technologies, we put ourselves through an incremental process where the product takes shape pixel by pixel right in front of our eyes; like a sculptor freeing his angels from stone using his chisel and hammer, we free our ideas from fantasy by realizing it with modern web technologies.&lt;/p&gt;
@@ -948,10 +948,10 @@ signature = &lt;span style=&#34;color: #aa0000&#34;&gt;Base64&lt;/span&gt;.encod
     
     <item>
       <title>UVA 10920 Spiral Tap</title>
-      <link>https://www.uohzxela.github.io/blog/uva-10920-spiral-tap/</link>
+      <link>/uohzxela.github.io/blog/uva-10920-spiral-tap/</link>
       <pubDate>Fri, 04 Jul 2014 10:17:55 +0800</pubDate>
       
-      <guid>https://www.uohzxela.github.io/blog/uva-10920-spiral-tap/</guid>
+      <guid>/uohzxela.github.io/blog/uva-10920-spiral-tap/</guid>
       <description>&lt;p&gt;A week gone by without tackling an algorithm problem makes Jack a dull software engineer.&lt;/p&gt;
 
 &lt;p&gt;Lately, I’ve been working on an inhouse app which requires intermediate Javascript and CSS skills. Being the greenhorn I am at these technologies, I struggled and the process became a timesink. Hence I didn’t manage to set aside time for my regular algorithm coding session.&lt;/p&gt;
@@ -1122,10 +1122,10 @@ signature = &lt;span style=&#34;color: #aa0000&#34;&gt;Base64&lt;/span&gt;.encod
     
     <item>
       <title>Draggable bar directive in AngularJS</title>
-      <link>https://www.uohzxela.github.io/blog/angular-draggable-bar/</link>
+      <link>/uohzxela.github.io/blog/angular-draggable-bar/</link>
       <pubDate>Tue, 24 Jun 2014 09:53:50 +0800</pubDate>
       
-      <guid>https://www.uohzxela.github.io/blog/angular-draggable-bar/</guid>
+      <guid>/uohzxela.github.io/blog/angular-draggable-bar/</guid>
       <description>&lt;p&gt;Over the past few days, I read a ton of AngularJS tutorials on directives. This topic is indeed hard to grok but I finally hacked together a draggable bar directive for the 10kft clone.&lt;/p&gt;
 
 &lt;p&gt;You can check it out &lt;a href=&#34;http://jsfiddle.net/uohzxela/9m3Tg/&#34;&gt;here&lt;/a&gt; on JsFiddle. Feel free to play around with its attributes.&lt;/p&gt;
@@ -1159,10 +1159,10 @@ signature = &lt;span style=&#34;color: #aa0000&#34;&gt;Base64&lt;/span&gt;.encod
     
     <item>
       <title>CodeChef - SUMTRIAN</title>
-      <link>https://www.uohzxela.github.io/blog/codechef-sumtrian/</link>
+      <link>/uohzxela.github.io/blog/codechef-sumtrian/</link>
       <pubDate>Sat, 21 Jun 2014 10:07:42 +0800</pubDate>
       
-      <guid>https://www.uohzxela.github.io/blog/codechef-sumtrian/</guid>
+      <guid>/uohzxela.github.io/blog/codechef-sumtrian/</guid>
       <description>&lt;p&gt;I’ve been doing some algorithm problems lately. It helps to keep you sharp between the ears and makes you a better engineer overall. The only downside is the time-consuming nature of this pursuit, as I am not too proficient in churning out optimized solutions.&lt;/p&gt;
 
 &lt;p&gt;I started by doing problems using UVa Online Judge, the good thing about this site is the immense archive of problems and the &lt;a href=&#34;http://uhunt.onlinejudge.org/&#34;&gt;problem classifier&lt;/a&gt; maintained by Felix Halim. But there’s really one bad thing about UVa, its site is so slow and unstable.&lt;/p&gt;
@@ -1303,10 +1303,10 @@ signature = &lt;span style=&#34;color: #aa0000&#34;&gt;Base64&lt;/span&gt;.encod
     
     <item>
       <title>To hell and back with promises</title>
-      <link>https://www.uohzxela.github.io/blog/callback-hell-and-promises/</link>
+      <link>/uohzxela.github.io/blog/callback-hell-and-promises/</link>
       <pubDate>Sat, 14 Jun 2014 09:59:28 +0800</pubDate>
       
-      <guid>https://www.uohzxela.github.io/blog/callback-hell-and-promises/</guid>
+      <guid>/uohzxela.github.io/blog/callback-hell-and-promises/</guid>
       <description>
 
 &lt;p&gt;So this week I’m self-studying AngularJS as I will be working on the front-end for a project I’m assigned to. Not much building nowadays, as I am still learning the theory of how AngularJS apps work. But I did create a sample app by following &lt;a href=&#34;http://www.thinkster.io/angularjs/r1gRPYp4kM/angularjs-tutorial-learn-to-build-modern-webapps&#34;&gt;thinkster.io’s tutorial&lt;/a&gt;. It’s not that well explained and it assumes the reader to have a basic familiarity with AngularJS concepts.&lt;/p&gt;
@@ -1400,10 +1400,10 @@ carryOnWithLife();
     
     <item>
       <title>Associations in Active Record</title>
-      <link>https://www.uohzxela.github.io/blog/active-record-associations/</link>
+      <link>/uohzxela.github.io/blog/active-record-associations/</link>
       <pubDate>Tue, 27 May 2014 10:35:51 +0800</pubDate>
       
-      <guid>https://www.uohzxela.github.io/blog/active-record-associations/</guid>
+      <guid>/uohzxela.github.io/blog/active-record-associations/</guid>
       <description>
 
 &lt;p&gt;Hi there. This week I’m going to blog about Active Record associations. They are used to declare relationships between model classes in Rails.&lt;/p&gt;
@@ -1693,10 +1693,10 @@ carryOnWithLife();
     
     <item>
       <title>Start of a RESTful journey on Rails</title>
-      <link>https://www.uohzxela.github.io/blog/restful-journey/</link>
+      <link>/uohzxela.github.io/blog/restful-journey/</link>
       <pubDate>Fri, 23 May 2014 11:16:31 +0800</pubDate>
       
-      <guid>https://www.uohzxela.github.io/blog/restful-journey/</guid>
+      <guid>/uohzxela.github.io/blog/restful-journey/</guid>
       <description>
 
 &lt;p&gt;After learning Ruby on Rubymonk (boy, I was glad I learnt from that site, it exposed me to advanced Ruby concepts which eased my Rails learning), I started to tackle Michael Hartl’s famous RoR &lt;a href=&#34;https://www.railstutorial.org/&#34;&gt;tutorial&lt;/a&gt;.&lt;/p&gt;
@@ -1744,10 +1744,10 @@ carryOnWithLife();
     
     <item>
       <title>Getting functional in Ruby</title>
-      <link>https://www.uohzxela.github.io/blog/functional-ruby/</link>
+      <link>/uohzxela.github.io/blog/functional-ruby/</link>
       <pubDate>Fri, 09 May 2014 11:44:16 +0800</pubDate>
       
-      <guid>https://www.uohzxela.github.io/blog/functional-ruby/</guid>
+      <guid>/uohzxela.github.io/blog/functional-ruby/</guid>
       <description>
 
 &lt;p&gt;Treading the waters of functional programming in Ruby makes me feel poignant that I didn’t take CS1101S. Functional programming is a totally different programming paradigm, one that is declarative instead of imperative. You seek to describe what you want done instead of specifying how you want something done. As a result, the code is more concise, leading to easier maintainability in large-scale systems. This is one of the big pluses of FP, along with the fact that it is more amenable to concurrency than its imperative cousin.&lt;/p&gt;
