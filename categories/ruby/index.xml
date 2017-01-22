@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ruby on Alex Jiao</title>
-    <link>/categories/ruby/index.xml</link>
+    <link>http://uohzxela.github.io/categories/ruby/index.xml</link>
     <description>Recent content in Ruby on Alex Jiao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="/categories/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://uohzxela.github.io/categories/ruby/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Getting functional in Ruby</title>
-      <link>/blog/functional-ruby/</link>
+      <link>http://uohzxela.github.io/blog/functional-ruby/</link>
       <pubDate>Fri, 09 May 2014 11:44:16 +0800</pubDate>
       
-      <guid>/blog/functional-ruby/</guid>
+      <guid>http://uohzxela.github.io/blog/functional-ruby/</guid>
       <description>
 
 &lt;p&gt;Treading the waters of functional programming in Ruby makes me feel poignant that I didn’t take CS1101S. Functional programming is a totally different programming paradigm, one that is declarative instead of imperative. You seek to describe what you want done instead of specifying how you want something done. As a result, the code is more concise, leading to easier maintainability in large-scale systems. This is one of the big pluses of FP, along with the fact that it is more amenable to concurrency than its imperative cousin.&lt;/p&gt;

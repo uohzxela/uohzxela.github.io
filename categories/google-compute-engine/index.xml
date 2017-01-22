@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Google Compute Engine on Alex Jiao</title>
-    <link>/categories/google-compute-engine/index.xml</link>
+    <link>http://uohzxela.github.io/categories/google-compute-engine/index.xml</link>
     <description>Recent content in Google Compute Engine on Alex Jiao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="/categories/google-compute-engine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://uohzxela.github.io/categories/google-compute-engine/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hosting an AngularJS app on an Google Compute Engine VM instance</title>
-      <link>/blog/angular-app-google-compute/</link>
+      <link>http://uohzxela.github.io/blog/angular-app-google-compute/</link>
       <pubDate>Sat, 16 Aug 2014 10:26:47 +0800</pubDate>
       
-      <guid>/blog/angular-app-google-compute/</guid>
+      <guid>http://uohzxela.github.io/blog/angular-app-google-compute/</guid>
       <description>&lt;p&gt;Recently I was tasked with deploying an Angular app on Google Compute Engine(GCE). I spent a lot of time trawling the web for tutorials but they are scattered around as usual. With help from my co-worker, I managed to get it done. To prevent others from floundering about in this niche area, here’s my walkthrough.&lt;/p&gt;
 
 &lt;p&gt;First you have to create a project &lt;a href=&#34;https://console.developers.google.com/project&#34;&gt;here&lt;/a&gt;. After that you’d have to create a VM instance. This step requires billing information as Google will charge you from the get-go.&lt;/p&gt;

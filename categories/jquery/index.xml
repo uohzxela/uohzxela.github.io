@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jquery on Alex Jiao</title>
-    <link>/categories/jquery/index.xml</link>
+    <link>http://uohzxela.github.io/categories/jquery/index.xml</link>
     <description>Recent content in Jquery on Alex Jiao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="/categories/jquery/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://uohzxela.github.io/categories/jquery/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Draggable bar directive in AngularJS</title>
-      <link>/blog/angular-draggable-bar/</link>
+      <link>http://uohzxela.github.io/blog/angular-draggable-bar/</link>
       <pubDate>Tue, 24 Jun 2014 09:53:50 +0800</pubDate>
       
-      <guid>/blog/angular-draggable-bar/</guid>
+      <guid>http://uohzxela.github.io/blog/angular-draggable-bar/</guid>
       <description>&lt;p&gt;Over the past few days, I read a ton of AngularJS tutorials on directives. This topic is indeed hard to grok but I finally hacked together a draggable bar directive for the 10kft clone.&lt;/p&gt;
 
 &lt;p&gt;You can check it out &lt;a href=&#34;http://jsfiddle.net/uohzxela/9m3Tg/&#34;&gt;here&lt;/a&gt; on JsFiddle. Feel free to play around with its attributes.&lt;/p&gt;

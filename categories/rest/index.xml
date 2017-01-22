@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rest on Alex Jiao</title>
-    <link>/categories/rest/index.xml</link>
+    <link>http://uohzxela.github.io/categories/rest/index.xml</link>
     <description>Recent content in Rest on Alex Jiao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="/categories/rest/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://uohzxela.github.io/categories/rest/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Start of a RESTful journey on Rails</title>
-      <link>/blog/restful-journey/</link>
+      <link>http://uohzxela.github.io/blog/restful-journey/</link>
       <pubDate>Fri, 23 May 2014 11:16:31 +0800</pubDate>
       
-      <guid>/blog/restful-journey/</guid>
+      <guid>http://uohzxela.github.io/blog/restful-journey/</guid>
       <description>
 
 &lt;p&gt;After learning Ruby on Rubymonk (boy, I was glad I learnt from that site, it exposed me to advanced Ruby concepts which eased my Rails learning), I started to tackle Michael Hartl’s famous RoR &lt;a href=&#34;https://www.railstutorial.org/&#34;&gt;tutorial&lt;/a&gt;.&lt;/p&gt;
