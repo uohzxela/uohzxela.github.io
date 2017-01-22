@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Algorithms on Alex Jiao</title>
-    <link>https://www.alexjiao.com/categories/algorithms/index.xml</link>
+    <link>https://www.uohzxela.github.io/categories/algorithms/index.xml</link>
     <description>Recent content in Algorithms on Alex Jiao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://www.alexjiao.com/categories/algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.uohzxela.github.io/categories/algorithms/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>UVA 10920 Spiral Tap</title>
-      <link>https://www.alexjiao.com/blog/uva-10920-spiral-tap/</link>
+      <link>https://www.uohzxela.github.io/blog/uva-10920-spiral-tap/</link>
       <pubDate>Fri, 04 Jul 2014 10:17:55 +0800</pubDate>
       
-      <guid>https://www.alexjiao.com/blog/uva-10920-spiral-tap/</guid>
+      <guid>https://www.uohzxela.github.io/blog/uva-10920-spiral-tap/</guid>
       <description>&lt;p&gt;A week gone by without tackling an algorithm problem makes Jack a dull software engineer.&lt;/p&gt;
 
 &lt;p&gt;Lately, I’ve been working on an inhouse app which requires intermediate Javascript and CSS skills. Being the greenhorn I am at these technologies, I struggled and the process became a timesink. Hence I didn’t manage to set aside time for my regular algorithm coding session.&lt;/p&gt;
@@ -184,10 +184,10 @@
     
     <item>
       <title>CodeChef - SUMTRIAN</title>
-      <link>https://www.alexjiao.com/blog/codechef-sumtrian/</link>
+      <link>https://www.uohzxela.github.io/blog/codechef-sumtrian/</link>
       <pubDate>Sat, 21 Jun 2014 10:07:42 +0800</pubDate>
       
-      <guid>https://www.alexjiao.com/blog/codechef-sumtrian/</guid>
+      <guid>https://www.uohzxela.github.io/blog/codechef-sumtrian/</guid>
       <description>&lt;p&gt;I’ve been doing some algorithm problems lately. It helps to keep you sharp between the ears and makes you a better engineer overall. The only downside is the time-consuming nature of this pursuit, as I am not too proficient in churning out optimized solutions.&lt;/p&gt;
 
 &lt;p&gt;I started by doing problems using UVa Online Judge, the good thing about this site is the immense archive of problems and the &lt;a href=&#34;http://uhunt.onlinejudge.org/&#34;&gt;problem classifier&lt;/a&gt; maintained by Felix Halim. But there’s really one bad thing about UVa, its site is so slow and unstable.&lt;/p&gt;

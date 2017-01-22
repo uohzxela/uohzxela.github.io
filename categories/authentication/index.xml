@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authentication on Alex Jiao</title>
-    <link>https://www.alexjiao.com/categories/authentication/index.xml</link>
+    <link>https://www.uohzxela.github.io/categories/authentication/index.xml</link>
     <description>Recent content in Authentication on Alex Jiao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://www.alexjiao.com/categories/authentication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.uohzxela.github.io/categories/authentication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Rolling your own simple token-based authentication in AngularJS with Rails</title>
-      <link>https://www.alexjiao.com/blog/angular-rails-auth/</link>
+      <link>https://www.uohzxela.github.io/blog/angular-rails-auth/</link>
       <pubDate>Fri, 01 Aug 2014 02:54:29 +0800</pubDate>
       
-      <guid>https://www.alexjiao.com/blog/angular-rails-auth/</guid>
+      <guid>https://www.uohzxela.github.io/blog/angular-rails-auth/</guid>
       <description>
 
 &lt;p&gt;Recently I was interested in implementing token-based authentication with a decoupled frontend and backend. I googled about ways to do it the Angular-Rails way. Turns out it is not that simple and straightfoward. After a couple of days of reading fragmented sources of information on the web, I finally rolled my own authentication system.&lt;/p&gt;
