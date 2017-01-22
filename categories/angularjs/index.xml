@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Angularjs on Alex Jiao</title>
-    <link>http://uohzxela.github.io/categories/angularjs/index.xml</link>
+    <link>https://uohzxela.github.io/categories/angularjs/index.xml</link>
     <description>Recent content in Angularjs on Alex Jiao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://uohzxela.github.io/categories/angularjs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://uohzxela.github.io/categories/angularjs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hosting an AngularJS app on an Google Compute Engine VM instance</title>
-      <link>http://uohzxela.github.io/blog/angular-app-google-compute/</link>
+      <link>https://uohzxela.github.io/blog/angular-app-google-compute/</link>
       <pubDate>Sat, 16 Aug 2014 10:26:47 +0800</pubDate>
       
-      <guid>http://uohzxela.github.io/blog/angular-app-google-compute/</guid>
+      <guid>https://uohzxela.github.io/blog/angular-app-google-compute/</guid>
       <description>&lt;p&gt;Recently I was tasked with deploying an Angular app on Google Compute Engine(GCE). I spent a lot of time trawling the web for tutorials but they are scattered around as usual. With help from my co-worker, I managed to get it done. To prevent others from floundering about in this niche area, here’s my walkthrough.&lt;/p&gt;
 
 &lt;p&gt;First you have to create a project &lt;a href=&#34;https://console.developers.google.com/project&#34;&gt;here&lt;/a&gt;. After that you’d have to create a VM instance. This step requires billing information as Google will charge you from the get-go.&lt;/p&gt;
@@ -69,10 +69,10 @@ app.listen(port, &lt;span style=&#34;color: #0000aa&#34;&gt;function&lt;/span&gt
     
     <item>
       <title>Rolling your own simple token-based authentication in AngularJS with Rails</title>
-      <link>http://uohzxela.github.io/blog/angular-rails-auth/</link>
+      <link>https://uohzxela.github.io/blog/angular-rails-auth/</link>
       <pubDate>Fri, 01 Aug 2014 02:54:29 +0800</pubDate>
       
-      <guid>http://uohzxela.github.io/blog/angular-rails-auth/</guid>
+      <guid>https://uohzxela.github.io/blog/angular-rails-auth/</guid>
       <description>
 
 &lt;p&gt;Recently I was interested in implementing token-based authentication with a decoupled frontend and backend. I googled about ways to do it the Angular-Rails way. Turns out it is not that simple and straightfoward. After a couple of days of reading fragmented sources of information on the web, I finally rolled my own authentication system.&lt;/p&gt;
@@ -635,10 +635,10 @@ app.config(&lt;span style=&#34;color: #0000aa&#34;&gt;function&lt;/span&gt; ($ht
     
     <item>
       <title>Image upload tutorial in AngularJS with Rails</title>
-      <link>http://uohzxela.github.io/blog/angular-rails-image-upload/</link>
+      <link>https://uohzxela.github.io/blog/angular-rails-image-upload/</link>
       <pubDate>Sun, 13 Jul 2014 09:03:58 +0800</pubDate>
       
-      <guid>http://uohzxela.github.io/blog/angular-rails-image-upload/</guid>
+      <guid>https://uohzxela.github.io/blog/angular-rails-image-upload/</guid>
       <description>
 
 &lt;p&gt;The hardest part of Marathon app is almost done. I managed to connect the view with the model (finally!) and the project assignment CRUD interface is almost finished. I am thankful to be given an opportunity to work on the front-end of a non-trivial app, it really exposes me to the intricacies of AngularJS framework and the complexity of CSS. Even though what really interests me is back-end development where scalability is of paramount importance and where interesting algorithmic problems can be solved, front-end development still continues to delight the creator within me. We humans are all creators at heart. By playing around with front-end technologies, we put ourselves through an incremental process where the product takes shape pixel by pixel right in front of our eyes; like a sculptor freeing his angels from stone using his chisel and hammer, we free our ideas from fantasy by realizing it with modern web technologies.&lt;/p&gt;
@@ -754,10 +754,10 @@ signature = &lt;span style=&#34;color: #aa0000&#34;&gt;Base64&lt;/span&gt;.encod
     
     <item>
       <title>Draggable bar directive in AngularJS</title>
-      <link>http://uohzxela.github.io/blog/angular-draggable-bar/</link>
+      <link>https://uohzxela.github.io/blog/angular-draggable-bar/</link>
       <pubDate>Tue, 24 Jun 2014 09:53:50 +0800</pubDate>
       
-      <guid>http://uohzxela.github.io/blog/angular-draggable-bar/</guid>
+      <guid>https://uohzxela.github.io/blog/angular-draggable-bar/</guid>
       <description>&lt;p&gt;Over the past few days, I read a ton of AngularJS tutorials on directives. This topic is indeed hard to grok but I finally hacked together a draggable bar directive for the 10kft clone.&lt;/p&gt;
 
 &lt;p&gt;You can check it out &lt;a href=&#34;http://jsfiddle.net/uohzxela/9m3Tg/&#34;&gt;here&lt;/a&gt; on JsFiddle. Feel free to play around with its attributes.&lt;/p&gt;

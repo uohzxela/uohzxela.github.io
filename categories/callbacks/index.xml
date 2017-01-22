@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Callbacks on Alex Jiao</title>
-    <link>http://uohzxela.github.io/categories/callbacks/index.xml</link>
+    <link>https://uohzxela.github.io/categories/callbacks/index.xml</link>
     <description>Recent content in Callbacks on Alex Jiao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://uohzxela.github.io/categories/callbacks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://uohzxela.github.io/categories/callbacks/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>To hell and back with promises</title>
-      <link>http://uohzxela.github.io/blog/callback-hell-and-promises/</link>
+      <link>https://uohzxela.github.io/blog/callback-hell-and-promises/</link>
       <pubDate>Sat, 14 Jun 2014 09:59:28 +0800</pubDate>
       
-      <guid>http://uohzxela.github.io/blog/callback-hell-and-promises/</guid>
+      <guid>https://uohzxela.github.io/blog/callback-hell-and-promises/</guid>
       <description>
 
 &lt;p&gt;So this week I’m self-studying AngularJS as I will be working on the front-end for a project I’m assigned to. Not much building nowadays, as I am still learning the theory of how AngularJS apps work. But I did create a sample app by following &lt;a href=&#34;http://www.thinkster.io/angularjs/r1gRPYp4kM/angularjs-tutorial-learn-to-build-modern-webapps&#34;&gt;thinkster.io’s tutorial&lt;/a&gt;. It’s not that well explained and it assumes the reader to have a basic familiarity with AngularJS concepts.&lt;/p&gt;

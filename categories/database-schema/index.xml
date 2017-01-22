@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Database Schema on Alex Jiao</title>
-    <link>http://uohzxela.github.io/categories/database-schema/index.xml</link>
+    <link>https://uohzxela.github.io/categories/database-schema/index.xml</link>
     <description>Recent content in Database Schema on Alex Jiao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://uohzxela.github.io/categories/database-schema/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://uohzxela.github.io/categories/database-schema/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Associations in Active Record</title>
-      <link>http://uohzxela.github.io/blog/active-record-associations/</link>
+      <link>https://uohzxela.github.io/blog/active-record-associations/</link>
       <pubDate>Tue, 27 May 2014 10:35:51 +0800</pubDate>
       
-      <guid>http://uohzxela.github.io/blog/active-record-associations/</guid>
+      <guid>https://uohzxela.github.io/blog/active-record-associations/</guid>
       <description>
 
 &lt;p&gt;Hi there. This week I’m going to blog about Active Record associations. They are used to declare relationships between model classes in Rails.&lt;/p&gt;
