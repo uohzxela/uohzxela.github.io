@@ -15,109 +15,313 @@
       <pubDate>Sat, 21 Jan 2017 19:36:40 +0800</pubDate>
       
       <guid>https://uohzxela.github.io/resume/</guid>
-      <description>&lt;p&gt;&lt;bo&lt;body&gt;
+      <description>&lt;p&gt;&lt;body style=&#34;background-color: #DFDFDF&#34;&gt;
 &lt;div id=&#39;container&#39;&gt;
-&lt;div&gt;
-&lt;h1 align=&#34;center&#34; id=&#34;markdown-resumé&#34;&gt;Résumé&lt;/h1&gt;
-&lt;br&gt;
-&lt;h2 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h2&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;big&gt;&lt;b&gt;Grab&lt;/b&gt;&lt;/big&gt; (Singapore)&lt;/p&gt;
-&lt;p&gt;Software Engineer, Nov 2016 - Jan 2017&lt;/p&gt;
-&lt;!-- &lt;ul&gt;
-&lt;li&gt;Intermingled presentation and content&lt;/li&gt;
-&lt;li&gt;Styling was a pain, so either didn&#39;t do it or found a half-decent template and didn&#39;t mess with it&lt;/li&gt;
-&lt;/ul&gt; --&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;big&gt;&lt;b&gt;honestbee&lt;/b&gt;&lt;/big&gt; (Singapore)&lt;/p&gt;
-&lt;p&gt;Software Engineer, July 2016 - Sep 2016&lt;/p&gt;
-&lt;div style=&#34;font-size: small&#34;&gt;
-&lt;p&gt;Automated manual labor components using computer vision to enable better operations.&lt;/p&gt;
-
-&lt;p&gt;Language(s): Python.&lt;/p&gt;
-
-&lt;p&gt;Tech stack: Airflow, Google Vision API, OpenCV, Tesseract.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Researched and developed a prototype to extract structured data from receipts using OpenCV and Tesseract, achieving over 90% accuracy on in-sample dataset.&lt;/li&gt;
-&lt;li&gt;Built and shipped a production-ready image processing pipeline by integrating the prototype with Google Vision API, speeding up order reconciliations by 3X and potentially saving thousands of dollars in operating costs per month.
-&lt;/div&gt;
-&lt;p&gt;&lt;big&gt;&lt;b&gt;2RedBeans&lt;/b&gt;&lt;/big&gt; (San Francisco Bay Area)&lt;/p&gt;
-&lt;p&gt;Software Engineer, Aug 2015 - July 2016&lt;/p&gt;
-&lt;div style=&#34;font-size: small&#34;&gt;
-&lt;p&gt;Rebuilt the product across the full stack.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Languages: JavaScript (ECMAScript 6), Ruby, Swift.&lt;/p&gt;
-
-&lt;p&gt;Tech stack: React + Redux, Rails, Xcode.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Rebuilt various parts of the product with HTML5, CSS3, ES6 using React and Redux.&lt;/li&gt;
-&lt;li&gt;Built &amp;amp; shipped the entire chat SPA (&lt;a href=&#34;http://www.2redbeans.com/en/app/chat&#34;&gt;http://www.2redbeans.com/en/app/chat&lt;/a&gt;) using AJAX &amp;amp; socket.io to allow real-time updates, with responsive design across desktop and mobile platforms, shaving off response times by 80%.&lt;/li&gt;
-&lt;li&gt;Rewrote legacy Rails API for new chat SPA to handle the shift of business logic to front-end, shrinking Rails codebase by 40%.&lt;/li&gt;
-&lt;li&gt;Developed features for iOS app using Swift and Xcode.&lt;/li&gt;
-&lt;li&gt;Standardized coding style of the front-end team using style guides.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;div class=&#39;resume-container&#39;&gt;
+    &lt;div class=&#39;profile-top&#39;&gt;
+        &lt;h1 class=&#39;full-name&#39;&gt;Alex Jiao Ziheng&lt;/h1&gt;
+        &lt;p class=&#39;headline&#39;&gt;Software Engineer&lt;/p&gt;
+        &lt;p class=&#39;demographic-info&#39;&gt;Singapore | Computer Software&lt;/p&gt;
+        &lt;table class=&#34;overview-summary&#34;&gt;
+            &lt;tbody&gt;
+                &lt;tr class=&#39;overview-summary-past&#39;&gt;
+                    &lt;th&gt;
+                        Previous
+                    &lt;/th&gt;
+                    &lt;td&gt;
+                        &lt;ol&gt;
+                            &lt;li&gt;Grab,&lt;/li&gt;
+                            &lt;li&gt;honestbee,&lt;/li&gt;
+                            &lt;li&gt;2RedBeans,&lt;/li&gt;
+                            &lt;li&gt;Wego&lt;/li&gt;
+                        &lt;/ol&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr class=&#39;overview-summary-education&#39;&gt;
+                    &lt;th&gt;
+                        Education
+                    &lt;/th&gt;
+                    &lt;td&gt;
+                        &lt;ol&gt;
+                            &lt;li&gt;National University of Singapore&lt;/li&gt;
+                        &lt;/ol&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;
+    &lt;div class=&#39;profile-background&#39;&gt;
+        &lt;p class=&#39;background-label&#39;&gt;
+            Background
+        &lt;/p&gt;
+        &lt;div class=&#39;background-section&#39;&gt;
+            &lt;h3 class=&#39;background-section-header&#39;&gt;
+                Summary
+            &lt;/h3&gt;
+            &lt;div class=&#39;background-section-content&#39;&gt;
+                &lt;p&gt;Software engineer in relentless pursuit of knowledge.&lt;/p&gt;
+                &lt;p&gt;As a lifelong learner of computer science, I have interests in programming language implementations and compiler optimizations.&lt;/p&gt;
+                &lt;p&gt;Very familiar with Python. Familiar with Ruby, JavaScript, Java and Golang.&lt;/p&gt;
+                &lt;p&gt;Also, in case you&amp;rsquo;re wondering, this LinkedIn-inspired resume is hand-crafted from scratch by yours truly.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#39;background-section&#39;&gt;
+            &lt;h3 class=&#39;background-section-header&#39;&gt;
+                Experience
+            &lt;/h3&gt;
+            &lt;div class=&#39;experience-container&#39;&gt;
+                &lt;div class=&#39;experience-summary&#39;&gt;
+                    &lt;div class=&#39;experience-info&#39;&gt;
+                        &lt;div class=&#39;experience-title&#39;&gt;
+                            Software Engineer
+                        &lt;/div&gt;
+                        &lt;div class=&#39;experience-company&#39;&gt;
+                            Grab
+                        &lt;/div&gt;
+                        &lt;div class=&#39;experience-date-locale&#39;&gt;
+                            November 2016 - January 2017 (3 months) | Singapore
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;img class=&#39;experience-logo&#39; src=&#39;https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAZwAAAAJDkxODZkZGNjLTA0YTgtNGM1Mi04OTgxLTEzNTMwM2RlODg4OA.png&#39;&gt;
+                &lt;/div&gt;
+                &lt;div class=&#39;background-section-content&#39;&gt;
+                    &lt;p&gt;Test-driven &amp;amp; full stack development for Grab&amp;rsquo;s driver &amp;amp; passenger CMS.&lt;/p&gt;
+                    &lt;p&gt;Language: JavaScript, Ruby.&lt;/p&gt;
+                    &lt;p&gt;Tech stack: React + Reflux, Rails, RSpec, Phabricator, TravisCI.&lt;/p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;
+                            Implemented features and fixed critical bugs in production across the full stack.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Worked on multiple cities feature for drivers, allowing them to pick up jobs in different cities within the same country.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Wrote a lot of unit tests using RSpec so as to adhere to test-driven development.
+                        &lt;/li&gt;
+                    &lt;/ul&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#39;experience-container&#39;&gt;
+                &lt;div class=&#39;experience-summary&#39;&gt;
+                    &lt;div class=&#39;experience-info&#39;&gt;
+                        &lt;div class=&#39;experience-title&#39;&gt;
+                            Software Engineer
+                        &lt;/div&gt;
+                        &lt;div class=&#39;experience-company&#39;&gt;
+                            honestbee
+                        &lt;/div&gt;
+                        &lt;div class=&#39;experience-date-locale&#39;&gt;
+                            July 2016 - August 2016 (2 months) | Singapore
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;img class=&#39;experience-logo&#39; src=&#39;https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAaqAAAAJGU2YjdjMTQwLTA4MjItNGExNi1hNTMyLTFlNTdhNWRkNmI5NA.png&#39;&gt;
+                &lt;/div&gt;
+                &lt;div class=&#39;background-section-content&#39;&gt;
+                    &lt;p&gt;Automated manual labor components using computer vision to enable better operations.&lt;/p&gt;
+                    &lt;p&gt;Language(s): Python.&lt;/p&gt;
+                    &lt;p&gt;Tech stack: Airflow, Google Vision API, OpenCV, Tesseract.&lt;/p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;
+                            Researched and developed a prototype to extract structured data from receipts using OpenCV and Tesseract, achieving over 90% accuracy on in-sample dataset.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Built and shipped a production-ready image processing pipeline by integrating the prototype with Google Vision API, speeding up order reconciliations by 3X and potentially saving thousands of dollars in operating costs per month.
+                        &lt;/li&gt;
+                    &lt;/ul&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#39;experience-container&#39;&gt;
+                &lt;div class=&#39;experience-summary&#39;&gt;
+                    &lt;div class=&#39;experience-info&#39;&gt;
+                        &lt;div class=&#39;experience-title&#39;&gt;
+                            Software Engineer
+                        &lt;/div&gt;
+                        &lt;div class=&#39;experience-company&#39;&gt;
+                            2RedBeans
+                        &lt;/div&gt;
+                        &lt;div class=&#39;experience-date-locale&#39;&gt;
+                            August 2015 - June 2016 (11 months) | San Francisco Bay Area
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;img class=&#39;experience-logo&#39; src=&#39;https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAATeAAAAJGMzZGE2MTQxLTQ5NjMtNDg1Yi04MWM4LTVkMjAxZmI3ZjExNw.png&#39;&gt;
+                &lt;/div&gt;
+                &lt;div class=&#39;background-section-content&#39;&gt;
+                    &lt;p&gt;Rebuilt the product across the full stack.&lt;/p&gt;
+                    &lt;p&gt;Languages: JavaScript (ECMAScript 6), Ruby, Swift.&lt;/p&gt;
+                    &lt;p&gt;Tech stack: React + Redux, Rails, Xcode.&lt;/p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;
+                            Rebuilt various parts of the product with HTML5, CSS3, ES6 using React and Redux.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Built &amp;amp; shipped the entire &lt;a href=&#34;http://www.2redbeans.com/en/app/chat&#34;&gt;chat SPA&lt;/a&gt; using AJAX &amp;amp; socket.io to allow real-time updates, with responsive design across desktop and mobile platforms, shaving off response times by 80%.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Rewrote legacy Rails API for new chat SPA to handle the shift of business logic to front-end, shrinking Rails codebase by 40%.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Developed features for iOS app using Swift and Xcode.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Conducted code reviews and standardized coding style of the front-end team using style guides.
+                        &lt;/li&gt;
+                    &lt;/ul&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#39;experience-container&#39;&gt;
+                &lt;div class=&#39;experience-summary&#39;&gt;
+                    &lt;div class=&#39;experience-info&#39;&gt;
+                        &lt;div class=&#39;experience-title&#39;&gt;
+                            DevOps Engineer
+                        &lt;/div&gt;
+                        &lt;div class=&#39;experience-company&#39;&gt;
+                            Wego
+                        &lt;/div&gt;
+                        &lt;div class=&#39;experience-date-locale&#39;&gt;
+                            January 2015 - June 2016 (6 months) | Singapore
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;img class=&#39;experience-logo&#39; src=&#39;https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAiaAAAAJDE0NWMxNWJjLTIzNDEtNGU4NC1hMGVhLTc0YjNlNTMyZmFhNA.png&#39;&gt;
+                &lt;/div&gt;
+                &lt;div class=&#39;background-section-content&#39;&gt;
+                    &lt;p&gt;Improved Wego&amp;rsquo;s devops and data infrastructure by tinkering with its distributed systems.&lt;/p&gt;
+                    &lt;p&gt;Languages: Bash, Golang, Ruby.&lt;/p&gt;
+                    &lt;p&gt;Tech stack: AWS EC2, Chef, Consul, Docker, HAProxy, Heka, Jenkins, Kafka, Marathon, Mesos, Zookeeper.&lt;/p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;
+                            Wrote Chef recipes to automate infrastructure configuration.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Developed a CI &amp;amp; CD pipeline using Jenkins to enable automatic deployments.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Developed a container orchestration platform for staging environments using Marathon, Mesos and Docker.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Implemented service discovery for the aforementioned platform using HAProxy and Ruby.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Set up &amp;amp; maintained on-premise Docker registry which sped up Docker pushes &amp;amp; pulls by 5X.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Developed a proof-of-concept for distributed configuration management using Consul.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Set up and utilized Kafka as a message broker to make data pipelines fault-resilient.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Developed &amp;amp; open-sourced a Heka plugin written in Go to persist data from Kafka to Amazon S3.
+                        &lt;/li&gt;
+                    &lt;/ul&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#39;experience-container&#39;&gt;
+                &lt;div class=&#39;experience-summary&#39;&gt;
+                    &lt;div class=&#39;experience-info&#39;&gt;
+                        &lt;div class=&#39;experience-title&#39;&gt;
+                            Software Developer
+                        &lt;/div&gt;
+                        &lt;div class=&#39;experience-company&#39;&gt;
+                            Favorite Medium
+                        &lt;/div&gt;
+                        &lt;div class=&#39;experience-date-locale&#39;&gt;
+                            May 2014 - Dec 2014 (8 months) | Singapore
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;img class=&#39;experience-logo&#39; src=&#39;https://media.licdn.com/media/p/6/005/085/21b/1c1b7f6.png&#39;&gt;
+                &lt;/div&gt;
+                &lt;div class=&#39;background-section-content&#39;&gt;
+                    &lt;p&gt;Made internal tools and worked on a project for Samsung APAC.&lt;/p&gt;
+                    &lt;p&gt;Languages: JavaScript, Ruby.&lt;/p&gt;
+                    &lt;p&gt;Tech stack: Angular.js, Rails, Amazon DynamoDB.&lt;/p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;
+                            Mainly worked on internal tools, such as employee portal, project management tool, and employee time tracker using Angular.js with Rails.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Developed a scalable NoSQL message service API using Amazon DynamoDB for a client’s project (Samsung APAC).
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Migrated company&amp;rsquo;s internal database to Google Compute Engine.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Maintained the backend infrastructure of the company&amp;rsquo;s in-house apps.
+                        &lt;/li&gt;
+                    &lt;/ul&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#39;background-section&#39;&gt;
+            &lt;h3 class=&#39;background-section-header&#39;&gt;
+                Education
+            &lt;/h3&gt;
+            &lt;div class=&#39;education-container&#39;&gt;
+                &lt;div class=&#39;education-summary&#39;&gt;
+                    &lt;div class=&#39;education-info&#39;&gt;
+                        &lt;div class=&#39;education-institute&#39;&gt;
+                            National University of Singapore
+                        &lt;/div&gt;
+                        &lt;div class=&#39;education-degree&#39;&gt;
+                            Bachelor of Computing with Honours (Distinction) in Computer Science
+                        &lt;/div&gt;
+                        &lt;div class=&#39;education-date&#39;&gt;
+                            2012 - 2017
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;img class=&#39;education-logo&#39; src=&#39;https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/005/008/188/2f4a58f.png&#39;&gt;
+                &lt;/div&gt;
+                &lt;div class=&#39;background-section-content&#39;&gt;
+                    &lt;p&gt;Specialization in Programming Languages.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#39;education-container&#39;&gt;
+                &lt;div class=&#39;education-summary&#39;&gt;
+                    &lt;div class=&#39;education-info&#39;&gt;
+                        &lt;div class=&#39;education-institute&#39;&gt;
+                            Stanford University
+                        &lt;/div&gt;
+                        &lt;div class=&#39;education-degree&#39;&gt;
+                            Stanford Center for Professional Development
+                        &lt;/div&gt;
+                        &lt;div class=&#39;education-date&#39;&gt;
+                            2015 - 2016
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;img class=&#39;education-logo&#39; src=&#39;https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAjhAAAAJDI5NWY1NDgxLTJjNDAtNDE5Yy1iYWNkLTkxMDFjMTM3YmExYw.png&#39;&gt;
+                &lt;/div&gt;
+                &lt;div class=&#39;background-section-content&#39;&gt;
+                    &lt;p&gt;NUS Overseas College (Silicon Valley) programme.&lt;/p&gt;
+                    &lt;p&gt;Took classes in entrepreneurship and wrote a compiler for a statically typed and object-oriented language.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#39;education-container&#39;&gt;
+                &lt;div class=&#39;education-summary&#39;&gt;
+                    &lt;div class=&#39;education-info&#39;&gt;
+                        &lt;div class=&#39;education-institute&#39;&gt;
+                            The Hong Kong University of Science and Technology
+                        &lt;/div&gt;
+                        &lt;div class=&#39;education-degree&#39;&gt;
+                            Student Exchange Programme
+                        &lt;/div&gt;
+                        &lt;div class=&#39;education-date&#39;&gt;
+                            2014 - 2014
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;img class=&#39;education-logo&#39; src=&#39;https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAg_AAAAJGRkMWQzMjVlLWNmODgtNDJiZS05ZTlkLWEwMTZkYjkxOWVlYQ.png&#39;&gt;
+                &lt;/div&gt;
+                &lt;div class=&#39;background-section-content&#39;&gt;
+                    &lt;p&gt;Took 7 courses in one semester.&lt;/p&gt;
+                    &lt;p&gt;
+                        Top ranked in Information Retrieval course for a full-text search engine implementation, based on speed and accuracy of queries.
+                    &lt;/p&gt;
+                    &lt;p&gt;A+ for Principles of Programming Languages.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;
-&lt;p&gt;&lt;big&gt;&lt;b&gt;Wego&lt;/b&gt;&lt;/big&gt; (Singapore)&lt;/p&gt;
-&lt;p&gt;DevOps Engineer, Jan 2015 - June 2015&lt;/p&gt;
-&lt;div style=&#34;font-size: small&#34;&gt;
-&lt;p&gt;Improved Wego&amp;rsquo;s devops and data infrastructure by tinkering with its distributed systems.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;Languages: Bash, Golang, Ruby.&lt;/p&gt;
-
-&lt;p&gt;Tech stack: AWS EC2, Chef, Consul, Docker, HAProxy, Heka, Jenkins, Kafka, Marathon, Mesos, Zookeeper.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Wrote Chef recipes to automate infrastructure configuration.&lt;/li&gt;
-&lt;li&gt;Developed a CI &amp;amp; CD pipeline using Jenkins to enable automatic deployments.&lt;/li&gt;
-&lt;li&gt;Developed a container orchestration platform for staging environments using Marathon, Mesos and Docker.&lt;/li&gt;
-&lt;li&gt;Implemented service discovery for the aforementioned platform using HAProxy and Ruby.&lt;/li&gt;
-&lt;li&gt;Set up &amp;amp; maintained on-premise Docker registry which sped up Docker pushes &amp;amp; pulls by 5X.&lt;/li&gt;
-&lt;li&gt;Developed a proof-of-concept for distributed configuration management using Consul.&lt;/li&gt;
-&lt;li&gt;Set up and utilized Kafka as a message broker to make data pipelines fault-resilient.&lt;/li&gt;
-&lt;li&gt;Developed &amp;amp; open-sourced a Heka plugin written in Go to persist data from Kafka to Amazon S3.
-&lt;/div&gt;
-&lt;p&gt;&lt;big&gt;&lt;b&gt;Favorite Medium&lt;/b&gt;&lt;/big&gt; (Singapore)&lt;/p&gt;
-&lt;p&gt;Software Developer, May 2014 - Dec 2014&lt;/p&gt;
-&lt;div style=&#34;font-size: small&#34;&gt;
-&lt;p&gt;Made internal tools and worked on a project for Samsung APAC.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Languages: JavaScript, Ruby.&lt;/p&gt;
-
-&lt;p&gt;Tech stack: Angular.js, Rails, Amazon DynamoDB.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mainly worked on internal tools, such as employee portal, project management tool, and employee time tracker using Angular.js with Rails.&lt;/li&gt;
-&lt;li&gt;Developed a scalable NoSQL message service API using Amazon DynamoDB for a client’s project (Samsung APAC).&lt;/li&gt;
-&lt;li&gt;Migrated company&amp;rsquo;s internal database to Google Compute Engine.&lt;/li&gt;
-&lt;li&gt;Maintained the backend infrastructure of the company&amp;rsquo;s in-house apps.
-&lt;/div&gt;
-&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;National University of University&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;B.Comp. with Honours (Distinction) in Computer Science, 2012 - 2017&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Stanford University&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;NUS Overseas College (Silicon Valley), 2015 - 2016&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The Hong Kong University of Science and Technology&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Exchange Programme, 2014&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;h2 id=&#34;interests&#34;&gt;Interests&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Programming language implementations&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Compiler optimizations&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Very familiar with Python&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Familiar with Ruby, JavaScript, Java and Golang&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
 &lt;/body&gt;&lt;/p&gt;
 </description>
     </item>
