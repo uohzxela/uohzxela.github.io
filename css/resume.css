@@ -210,7 +210,6 @@ header.title
 
 @media only screen and (max-width: 480px)
 {
-	.logo-container,
 	.experience-logo,
 	.education-logo
 	{
@@ -239,8 +238,10 @@ header.title
 	.logo-container
 	{
 		margin-left: 0;
-	    margin-right: 10px;
 	    margin-top: 10px;
+	    flex-basis: 3em;
+	    flex-shrink: 0;
+	    flex-grow: 0;
 	}
 	.background-section-content
 	{
