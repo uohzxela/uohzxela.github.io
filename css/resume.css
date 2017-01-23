@@ -24,10 +24,11 @@ header.title
 {
 	font-family: Helvetica, Arial, sans-serif;
 	color: #333;
-	-webkit-hyphens: auto;
+/*	-webkit-hyphens: auto;
 	   -moz-hyphens: auto;
 	    -ms-hyphens: auto;
-	        hyphens: auto;
+	        hyphens: auto;*/
+	text-align: left;
 }
 
 .profile-top,
