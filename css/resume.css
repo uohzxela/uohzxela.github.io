@@ -9,7 +9,7 @@ ul
 }
 header.title
 {
-	margin-top: 0;
+	display: none;
 }
 
 .container
@@ -224,5 +224,20 @@ header.title
 	.background-section-content
 	{
 		font-size: 11px;
+	}
+	.content
+	{
+		margin: 0;
+		padding: 0;
+	}
+	.profile-top,
+	.profile-background
+	{
+		padding: 10px;
+	}
+	.background-label
+	{
+		margin-top: -10px;
+		margin-bottom: -10px;
 	}
 }
