@@ -168,9 +168,9 @@ header.title
 {
 	font-size: 14px;
     font-weight: normal;
-    line-height: 14px;
     color: #434649;
     margin: 0;
+    margin-top: -3px;
     padding: 0;
 }
 
@@ -183,7 +183,7 @@ header.title
     font-size: 12px;
     color: #66696a;
     font-size: 13px;
-    line-height: 23px;
+
     margin: 0;
     padding: 0;
     font-weight: normal;
