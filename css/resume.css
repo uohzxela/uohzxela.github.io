@@ -11,6 +11,7 @@ header.title
 {
 	margin-top: 0;
 }
+
 .container
 {
 	max-width: 680px;
@@ -196,4 +197,32 @@ header.title
 .education-info
 {
 	margin-right: 20px;
+}
+
+@media only screen and (max-width: 480px)
+{
+	.experience-logo,
+	.education-logo
+	{
+		width: 40px;
+	}
+	.experience-title,
+	.education-institute
+	{
+		font-size: 14px;
+	}
+	.experience-company,
+	.education-degree
+	{
+		font-size: 12px;
+	}
+	.experience-date-locale,
+	.education-date
+	{
+		font-size: 10px;
+	}
+	.background-section-content
+	{
+		font-size: 11px;
+	}
 }
