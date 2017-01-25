@@ -244,6 +244,7 @@ header.title
 	    margin-top: 10px;
 	    margin-right: 10px;
 	    flex-grow: 0;
+	    flex-shrink: 0;
 	}
 	.background-section-content
 	{
