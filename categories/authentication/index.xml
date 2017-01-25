@@ -561,7 +561,7 @@ app.config(&lt;span style=&#34;color: #0000aa&#34;&gt;function&lt;/span&gt; ($ht
 
 &lt;p&gt;This concludes my tutorial finally.&lt;/p&gt;
 
-&lt;p&gt;To play with the auth, start the frontend and backend servers with grunt serve and rails s respectively and type any of the URLs in the address bar:&lt;/p&gt;
+&lt;p&gt;To play with the auth, start the frontend and backend servers with &lt;code&gt;grunt serve&lt;/code&gt; and &lt;code&gt;rails s&lt;/code&gt; respectively and type any of the URLs in the address bar:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;/signup&lt;/code&gt;&lt;/li&gt;
