@@ -20,7 +20,7 @@
 &lt;div id=&#39;container&#39;&gt;
 &lt;div class=&#39;resume-container&#39;&gt;
     &lt;div class=&#39;profile-top&#39;&gt;
-        &lt;h1 class=&#39;full-name&#39;&gt;Alex Jiao Ziheng&lt;/h1&gt;
+        &lt;h1 class=&#39;full-name&#39;&gt;Alex Jiao&lt;/h1&gt;
         &lt;p class=&#39;headline&#39;&gt;Software Engineer&lt;/p&gt;
         &lt;p class=&#39;demographic-info&#39;&gt;Singapore | Computer Software&lt;/p&gt;
         &lt;table class=&#34;overview-summary&#34;&gt;
@@ -62,7 +62,7 @@
             &lt;div class=&#39;background-section-content&#39;&gt;
                 &lt;p&gt;Software engineer in relentless pursuit of knowledge.&lt;/p&gt;
                 &lt;p&gt;As a lifelong learner of computer science, I have interests in programming language design and implementation.&lt;/p&gt;
-                &lt;p&gt;Very familiar with Python. Familiar with Ruby, JavaScript, Java and Golang.&lt;/p&gt;
+                &lt;p&gt;Very familiar with Python. Familiar with Elixir, Erlang, Ruby, JavaScript, Java, Golang.&lt;/p&gt;
                 &lt;p&gt;Also, in case you&amp;rsquo;re wondering, this LinkedIn-inspired resume is hand-crafted from scratch by yours truly.&lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -114,7 +114,7 @@
                             honestbee
                         &lt;/div&gt;
                         &lt;div class=&#39;experience-date-locale&#39;&gt;
-                            July 2016 - Aug 2016 (2 months) | Singapore
+                            July 2016 - Sep 2016 (3 months) | Singapore
                         &lt;/div&gt;
                     &lt;/div&gt;
                     &lt;div class=&#39;logo-container&#39;&gt;
@@ -323,7 +323,7 @@
                         &lt;/div&gt;
                     &lt;/div&gt;
                     &lt;div class=&#39;logo-container&#39;&gt;
-                        &lt;img class=&#39;education-logo&#39; src=&#39;https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAg_AAAAJGRkMWQzMjVlLWNmODgtNDJiZS05ZTlkLWEwMTZkYjkxOWVlYQ.png&#39;&gt;
+                        &lt;img class=&#39;education-logo&#39; src=&#39;https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAsSAAAAJGUyNmU5MDczLWRmMTMtNDI3Yy05ODBlLTU0YjY4OTBjNDY5Nw.png&#39;&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
                 &lt;div class=&#39;background-section-content&#39;&gt;
@@ -351,7 +351,7 @@
       <guid>https://uohzxela.github.io/about/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Alex, a CS student at National University of Singapore. I have experience working across the full web development stack. Being a generalist, I do not tie myself to a single platform or programming language. My academic interest lies in programming language design and implementation. Lately, I&amp;rsquo;m trying to deep dive into this area, and it has been fascinating so far.&lt;/p&gt;
 
-&lt;p&gt;I was born in Dalian, which is a coastal city in Liaoning, China, and have spent a good chunk of my life in Beijing before immigrating to Singapore. Now, I consider myself more or less a Singaporean, save for a bit of Beijing accent. I relish eating our local fare, and I think &lt;i&gt;bak chor mee&lt;/i&gt; is the best thing ever since sliced bread.&lt;/p&gt;
+&lt;p&gt;I was born in Dalian, which is a coastal city in Liaoning, China, and have spent my formative years in Beijing before immigrating to Singapore. Now, I consider myself more or less a Singaporean, save for a bit of Beijing accent. I relish eating our local fare, and I think &lt;i&gt;bak chor mee&lt;/i&gt; is the best thing ever since sliced bread.&lt;/p&gt;
 
 &lt;p&gt;If you are working with me in any professional capacity, it&amp;rsquo;d be helpful to know that I am hearing impaired. I was diagnosed with moderately severe sensorineural hearing loss since young. I am not too bothered by this, as I got a good pair of hearing aids. However, I&amp;rsquo;ll really appreciate it if you can speak loud and clear.&lt;/p&gt;
 
@@ -1228,7 +1228,7 @@ signature = &lt;span style=&#34;color: #aa0000&#34;&gt;Base64&lt;/span&gt;.encod
 &lt;div class=&#34;highlight&#34; style=&#34;background: #ffffff&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #0000aa&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color: #00aaaa; text-decoration: underline&#34;&gt;java.io.*&lt;/span&gt;;
 
 &lt;span style=&#34;color: #aaaaaa; font-style: italic&#34;&gt;/**&lt;/span&gt;
-&lt;span style=&#34;color: #aaaaaa; font-style: italic&#34;&gt; * @author Alex Jiao Ziheng&lt;/span&gt;
+&lt;span style=&#34;color: #aaaaaa; font-style: italic&#34;&gt; * @author Alex Jiao&lt;/span&gt;
 &lt;span style=&#34;color: #aaaaaa; font-style: italic&#34;&gt; * UVa 10920 Spiral Tap&lt;/span&gt;
 &lt;span style=&#34;color: #aaaaaa; font-style: italic&#34;&gt; *&lt;/span&gt;
 &lt;span style=&#34;color: #aaaaaa; font-style: italic&#34;&gt; */&lt;/span&gt;
@@ -1414,7 +1414,7 @@ signature = &lt;span style=&#34;color: #aa0000&#34;&gt;Base64&lt;/span&gt;.encod
 &lt;span style=&#34;color: #0000aa&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color: #00aaaa; text-decoration: underline&#34;&gt;java.io.PrintWriter&lt;/span&gt;;
 
 &lt;span style=&#34;color: #aaaaaa; font-style: italic&#34;&gt;/**&lt;/span&gt;
-&lt;span style=&#34;color: #aaaaaa; font-style: italic&#34;&gt; * @author Alex Jiao Ziheng&lt;/span&gt;
+&lt;span style=&#34;color: #aaaaaa; font-style: italic&#34;&gt; * @author Alex Jiao&lt;/span&gt;
 &lt;span style=&#34;color: #aaaaaa; font-style: italic&#34;&gt; *&lt;/span&gt;
 &lt;span style=&#34;color: #aaaaaa; font-style: italic&#34;&gt; */&lt;/span&gt;
 &lt;span style=&#34;color: #0000aa&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color: #0000aa&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color: #00aa00; text-decoration: underline&#34;&gt;SUMTRIAN&lt;/span&gt; {

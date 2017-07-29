@@ -44,7 +44,7 @@
 &lt;span style=&#34;color: #0000aa&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color: #00aaaa; text-decoration: underline&#34;&gt;java.io.PrintWriter&lt;/span&gt;;
 
 &lt;span style=&#34;color: #aaaaaa; font-style: italic&#34;&gt;/**&lt;/span&gt;
-&lt;span style=&#34;color: #aaaaaa; font-style: italic&#34;&gt; * @author Alex Jiao Ziheng&lt;/span&gt;
+&lt;span style=&#34;color: #aaaaaa; font-style: italic&#34;&gt; * @author Alex Jiao&lt;/span&gt;
 &lt;span style=&#34;color: #aaaaaa; font-style: italic&#34;&gt; *&lt;/span&gt;
 &lt;span style=&#34;color: #aaaaaa; font-style: italic&#34;&gt; */&lt;/span&gt;
 &lt;span style=&#34;color: #0000aa&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color: #0000aa&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color: #00aa00; text-decoration: underline&#34;&gt;SUMTRIAN&lt;/span&gt; {
