@@ -62,7 +62,7 @@
             &lt;div class=&#39;background-section-content&#39;&gt;
                 &lt;p&gt;Software engineer in relentless pursuit of knowledge.&lt;/p&gt;
                 &lt;p&gt;As a lifelong learner of computer science, I have interests in programming language design and implementation.&lt;/p&gt;
-                &lt;p&gt;Very familiar with Python. Familiar with Elixir, Erlang, Ruby, JavaScript, Java, Golang.&lt;/p&gt;
+                &lt;p&gt;Very familiar with Python. Familiar with Elixir, Erlang, Ruby, JavaScript, Java, Golang, C.&lt;/p&gt;
                 &lt;p&gt;Also, in case you&amp;rsquo;re wondering, this LinkedIn-inspired resume is hand-crafted from scratch by yours truly.&lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -70,6 +70,49 @@
             &lt;h3 class=&#39;background-section-header&#39;&gt;
                 Experience
             &lt;/h3&gt;
+            &lt;div class=&#39;experience-container&#39;&gt;
+                &lt;div class=&#39;experience-summary&#39;&gt;
+                    &lt;div class=&#39;experience-info&#39;&gt;
+                        &lt;div class=&#39;experience-title&#39;&gt;
+                            Full Stack Engineer
+                        &lt;/div&gt;
+                        &lt;div class=&#39;experience-company&#39;&gt;
+                            Viki
+                        &lt;/div&gt;
+                        &lt;div class=&#39;experience-date-locale&#39;&gt;
+                            June 2017 - Present | Singapore
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&#39;logo-container&#39;&gt;
+                        &lt;img class=&#39;experience-logo&#39; src=&#39;https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAxbAAAAJDgzNTE1MmZhLTY0MjQtNDkxOS1hZGE1LTNkNjY2MmJiNTQwNQ.png&#39;&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&#39;background-section-content&#39;&gt;
+                    &lt;p&gt;Working on Viki&amp;rsquo;s subtitling tools and platform.&lt;/p&gt;
+                    &lt;p&gt;Languages: JavaScript, Ruby.&lt;/p&gt;
+                    &lt;p&gt;Tech stack: Backbone.js, Docker, Drone, Graylog, Rails, RabbitMQ, Redis, PostgreSQL.&lt;/p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;
+                            Developed features across the full stack to improve the subtitling workflow.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Refactored legacy code according to &lt;a href=&#34;https://github.com/uohzxela/clean-code-ruby&#34;&gt;Clean Code principles&lt;/a&gt;.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Conducted performance profiling and optimization of the subtitling tools to fix obscure memory leaks in older browsers.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Improved telemetry by centralizing logging with Elasticsearch and introducing monitoring with Graylog.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Performed root cause analysis using Graylog to diagnose and fix internal server errors, reducing them by 90%.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Dockerized the local development environment, reducing the set-up time from days to minutes.
+                        &lt;/li&gt;
+                    &lt;/ul&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
             &lt;div class=&#39;experience-container&#39;&gt;
                 &lt;div class=&#39;experience-summary&#39;&gt;
                     &lt;div class=&#39;experience-info&#39;&gt;
@@ -161,7 +204,7 @@
                             Rebuilt various parts of the product with HTML5, CSS3, ES6 using React and Redux.
                         &lt;/li&gt;
                         &lt;li&gt;
-                            Built &amp;amp; shipped the entire &lt;a href=&#34;http://www.2redbeans.com/en/app/chat&#34;&gt;chat SPA&lt;/a&gt; using AJAX &amp;amp; socket.io to allow real-time updates, with responsive design across desktop and mobile platforms, shaving off response times by 80%.
+                            Built &amp;amp; shipped the entire &lt;a href=&#34;http://www.2redbeans.com/en/app/chat&#34;&gt;chat SPA&lt;/a&gt; using socket.io to allow real-time updates, with responsive design across desktop and mobile platforms, shaving off response times by 80%.
                         &lt;/li&gt;
                         &lt;li&gt;
                             Rewrote legacy Rails API for new chat SPA to handle the shift of business logic to front-end, shrinking Rails codebase by 40%.
