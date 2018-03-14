@@ -31,10 +31,10 @@
                     &lt;/th&gt;
                     &lt;td&gt;
                         &lt;ol&gt;
+                            &lt;li&gt;Viki,&lt;/li&gt;
                             &lt;li&gt;Grab,&lt;/li&gt;
                             &lt;li&gt;honestbee,&lt;/li&gt;
-                            &lt;li&gt;2RedBeans,&lt;/li&gt;
-                            &lt;li&gt;Wego&lt;/li&gt;
+                            &lt;li&gt;2RedBeans&lt;/li&gt;
                         &lt;/ol&gt;
                     &lt;/td&gt;
                 &lt;/tr&gt;
@@ -61,7 +61,7 @@
             &lt;/h3&gt;
             &lt;div class=&#39;background-section-content&#39;&gt;
                 &lt;p&gt;Software engineer in relentless pursuit of knowledge.&lt;/p&gt;
-                &lt;p&gt;As a lifelong learner of computer science, I have interests in programming language design and implementation.&lt;/p&gt;
+                &lt;p&gt;As a lifelong learner of computer science, I have interests in programming languages, distributed systems and operating systems.&lt;/p&gt;
                 &lt;p&gt;Very familiar with Python. Familiar with Elixir, Erlang, Ruby, JavaScript, Java, Golang, C.&lt;/p&gt;
                 &lt;p&gt;Also, in case you&amp;rsquo;re wondering, this LinkedIn-inspired resume is hand-crafted from scratch by yours truly.&lt;/p&gt;
             &lt;/div&gt;
@@ -74,13 +74,41 @@
                 &lt;div class=&#39;experience-summary&#39;&gt;
                     &lt;div class=&#39;experience-info&#39;&gt;
                         &lt;div class=&#39;experience-title&#39;&gt;
+                            DevOps Engineer
+                        &lt;/div&gt;
+                        &lt;div class=&#39;experience-company&#39;&gt;
+                            Wego
+                        &lt;/div&gt;
+                        &lt;div class=&#39;experience-date-locale&#39;&gt;
+                            Dec 2017 - Present | Singapore
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&#39;logo-container&#39;&gt;
+                        &lt;img class=&#39;experience-logo&#39; src=&#39;https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAiaAAAAJDE0NWMxNWJjLTIzNDEtNGU4NC1hMGVhLTc0YjNlNTMyZmFhNA.png&#39;&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&#39;background-section-content&#39;&gt;
+                    &lt;p&gt;Making Wego&amp;rsquo;s infrastructure more awesome.&lt;/p&gt;
+                    &lt;p&gt;Tech stack: AWS, Ansible, Consul, Docker, Jenkins, Kong, Packer, Terraform.&lt;/p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;Maintaining and optimizing deployment pipelines.&lt;/li&gt;
+                        &lt;li&gt;Leading Immutable Infrastructure efforts.&lt;/li&gt;
+                        &lt;li&gt;Leading Infrastructure-as-Code efforts.&lt;/li&gt;
+                        &lt;li&gt;Site reliability engineering and developer tooling.&lt;/li&gt;
+                    &lt;/ul&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#39;experience-container&#39;&gt;
+                &lt;div class=&#39;experience-summary&#39;&gt;
+                    &lt;div class=&#39;experience-info&#39;&gt;
+                        &lt;div class=&#39;experience-title&#39;&gt;
                             Full Stack Engineer
                         &lt;/div&gt;
                         &lt;div class=&#39;experience-company&#39;&gt;
                             Viki
                         &lt;/div&gt;
                         &lt;div class=&#39;experience-date-locale&#39;&gt;
-                            June 2017 - Present | Singapore
+                            Jun 2017 - Nov 2017 (6 months) | Singapore
                         &lt;/div&gt;
                     &lt;/div&gt;
                     &lt;div class=&#39;logo-container&#39;&gt;
@@ -88,7 +116,7 @@
                     &lt;/div&gt;
                 &lt;/div&gt;
                 &lt;div class=&#39;background-section-content&#39;&gt;
-                    &lt;p&gt;Working on Viki&amp;rsquo;s subtitling tools and platform.&lt;/p&gt;
+                    &lt;p&gt;Worked on Viki&amp;rsquo;s subtitling tools and platform.&lt;/p&gt;
                     &lt;p&gt;Languages: JavaScript, Ruby.&lt;/p&gt;
                     &lt;p&gt;Tech stack: Backbone.js, Docker, Drone, Graylog, Rails, RabbitMQ, Redis, PostgreSQL.&lt;/p&gt;
                     &lt;ul&gt;
@@ -97,6 +125,9 @@
                         &lt;/li&gt;
                         &lt;li&gt;
                             Refactored legacy code according to &lt;a href=&#34;https://github.com/uohzxela/clean-code-ruby&#34;&gt;Clean Code principles&lt;/a&gt;.
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            Eliminated N+1 database queries for highly-trafficked web pages.
                         &lt;/li&gt;
                         &lt;li&gt;
                             Conducted performance profiling and optimization of the subtitling tools to fix obscure memory leaks in older browsers.
@@ -117,13 +148,37 @@
                 &lt;div class=&#39;experience-summary&#39;&gt;
                     &lt;div class=&#39;experience-info&#39;&gt;
                         &lt;div class=&#39;experience-title&#39;&gt;
-                            Software Engineer
+                            Open-source Contributor
+                        &lt;/div&gt;
+                        &lt;div class=&#39;experience-company&#39;&gt;
+                            BEAM Community (under Google Summer of Code)
+                        &lt;/div&gt;
+                        &lt;div class=&#39;experience-date-locale&#39;&gt;
+                            Jun 2017 - Aug 2017 (3 months) | Singapore
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&#39;logo-container&#39;&gt;
+                        &lt;img class=&#39;experience-logo&#39; src=&#39;https://pbs.twimg.com/profile_images/683949209050046464/-MWyJCb1_400x400.png&#39;&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&#39;background-section-content&#39;&gt;
+                    &lt;p&gt;Developed a code formatter for Elixir language. This project also involves open-source contributions to Elixir tokenizer and parser (written in Erlang) to make the abstract syntax tree more amenable for code formatting. &lt;/p&gt;
+                    &lt;p&gt;Mentors: Josè Valim and Andrea Leopardi.&lt;/p&gt;
+                    &lt;p&gt;Languages: Elixir, Erlang.&lt;/p&gt;
+                    &lt;a href=https://summerofcode.withgoogle.com/archive/2017/projects/6463694657552384/&gt;Project Link&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#39;experience-container&#39;&gt;
+                &lt;div class=&#39;experience-summary&#39;&gt;
+                    &lt;div class=&#39;experience-info&#39;&gt;
+                        &lt;div class=&#39;experience-title&#39;&gt;
+                            Software Engineer (Intern)
                         &lt;/div&gt;
                         &lt;div class=&#39;experience-company&#39;&gt;
                             Grab
                         &lt;/div&gt;
                         &lt;div class=&#39;experience-date-locale&#39;&gt;
-                            Nov 2016 - Jan 2017 (3 months) | Singapore
+                            Dec 2016 - Feb 2017 (3 months) | Singapore
                         &lt;/div&gt;
                     &lt;/div&gt;
                     &lt;div class=&#39;logo-container&#39;&gt;
@@ -151,13 +206,13 @@
                 &lt;div class=&#39;experience-summary&#39;&gt;
                     &lt;div class=&#39;experience-info&#39;&gt;
                         &lt;div class=&#39;experience-title&#39;&gt;
-                            Software Engineer
+                            Software Engineer (Intern)
                         &lt;/div&gt;
                         &lt;div class=&#39;experience-company&#39;&gt;
                             honestbee
                         &lt;/div&gt;
                         &lt;div class=&#39;experience-date-locale&#39;&gt;
-                            July 2016 - Sep 2016 (3 months) | Singapore
+                            Jul 2016 - Sep 2016 (3 months) | Singapore
                         &lt;/div&gt;
                     &lt;/div&gt;
                     &lt;div class=&#39;logo-container&#39;&gt;
@@ -182,13 +237,13 @@
                 &lt;div class=&#39;experience-summary&#39;&gt;
                     &lt;div class=&#39;experience-info&#39;&gt;
                         &lt;div class=&#39;experience-title&#39;&gt;
-                            Software Engineer
+                            Software Engineer (Co-Op)
                         &lt;/div&gt;
                         &lt;div class=&#39;experience-company&#39;&gt;
                             2RedBeans
                         &lt;/div&gt;
                         &lt;div class=&#39;experience-date-locale&#39;&gt;
-                            Aug 2015 - June 2016 (11 months) | San Francisco Bay Area
+                            Aug 2015 - Jul 2016 (1 year) | San Francisco Bay Area
                         &lt;/div&gt;
                     &lt;/div&gt;
                     &lt;div class=&#39;logo-container&#39;&gt;
@@ -210,6 +265,8 @@
                             Rewrote legacy Rails API for new chat SPA to handle the shift of business logic to front-end, shrinking Rails codebase by 40%.
                         &lt;/li&gt;
                         &lt;li&gt;
+                            Restructured CSS code using best practices such as BEM methodology.
+                        &lt;li&gt;
                             Developed features for iOS app using Swift and Xcode.
                         &lt;/li&gt;
                         &lt;li&gt;
@@ -222,13 +279,13 @@
                 &lt;div class=&#39;experience-summary&#39;&gt;
                     &lt;div class=&#39;experience-info&#39;&gt;
                         &lt;div class=&#39;experience-title&#39;&gt;
-                            DevOps Engineer
+                            DevOps Engineer (Co-Op)
                         &lt;/div&gt;
                         &lt;div class=&#39;experience-company&#39;&gt;
                             Wego
                         &lt;/div&gt;
                         &lt;div class=&#39;experience-date-locale&#39;&gt;
-                            Jan 2015 - June 2016 (6 months) | Singapore
+                            Jan 2015 - Jun 2016 (6 months) | Singapore
                         &lt;/div&gt;
                     &lt;/div&gt;
                     &lt;div class=&#39;logo-container&#39;&gt;
@@ -236,7 +293,7 @@
                     &lt;/div&gt;
                 &lt;/div&gt;
                 &lt;div class=&#39;background-section-content&#39;&gt;
-                    &lt;p&gt;Improved Wego&amp;rsquo;s devops and data infrastructure by tinkering with its distributed systems.&lt;/p&gt;
+                    &lt;p&gt;Improved Wego&amp;rsquo;s infrastructure by tinkering with its distributed systems.&lt;/p&gt;
                     &lt;p&gt;Languages: Bash, Golang, Ruby.&lt;/p&gt;
                     &lt;p&gt;Tech stack: AWS EC2, Chef, Consul, Docker, HAProxy, Heka, Jenkins, Kafka, Marathon, Mesos, Zookeeper.&lt;/p&gt;
                     &lt;ul&gt;
@@ -392,7 +449,7 @@
       <pubDate>Sat, 21 Jan 2017 08:54:26 +0800</pubDate>
       
       <guid>https://uohzxela.github.io/about/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m Alex, a CS student at National University of Singapore. I have experience working across the full web development stack. Being a generalist, I do not tie myself to a single platform or programming language. My academic interest lies in programming language design and implementation. Lately, I&amp;rsquo;m trying to deep dive into this area, and it has been fascinating so far.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m Alex. I have experience working across the full web development stack. Being a generalist, I do not tie myself to a single platform or programming language. I have interests in programming languages, distributed systems and operating systems.&lt;/p&gt;
 
 &lt;p&gt;I was born in Dalian, which is a coastal city in Liaoning, China, and have spent my formative years in Beijing before immigrating to Singapore. Now, I consider myself more or less a Singaporean, save for a bit of Beijing accent. I relish eating our local fare, and I think &lt;i&gt;bak chor mee&lt;/i&gt; is the best thing ever since sliced bread.&lt;/p&gt;
 
